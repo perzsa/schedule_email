@@ -17,11 +17,11 @@ Option 2:
     You have to set all detailes in file (notepad++)
  
  
- 2.Scheduled_email_input.py
+ 2. Scheduled_email_input.py
     Script will ask for:
       sender,
       target,
       message,
       subject.
       
-#Enjoy
+# Enjoy
