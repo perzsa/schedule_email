@@ -12,3 +12,16 @@ Option 2:
   cd to the directory 
   python3 filename.py
   
+# File's:
+ 1. Scheduled_email.py
+    You have to set all detailes in file (notepad++)
+ 
+ 
+ 2.Scheduled_email_input.py
+    Script will ask for:
+      sender,
+      target,
+      message,
+      subject.
+      
+#Enjoy
